@@ -1,4 +1,4 @@
-# Home ESP / Arduino projects
+# ESP32 / Arduino builds
 
 Personal ESP32 and Arduino builds: a wireless door alarm, Wi‑Fi home control, light-sensing blinds, and a proximity lamp.
 
