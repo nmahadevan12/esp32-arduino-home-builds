@@ -11,7 +11,7 @@ Each folder is one project from the [portfolio writeup](https://nmahadevan12.git
 | [`esp-receiver-autowifi-discord`](./esp-receiver-autowifi-discord) | Same hub family with Discord webhooks |
 | [`security-system`](./security-system) | Wi‑Fi / web security logger |
 | [`home-automation`](./home-automation) | Hub + Wi‑Fi blinds + lamps (`hub/` · `blinds/` · `lamps/`) |
-| [`photo-blinds`](./photo-blinds) | Standalone photoresistor blinds (not hub-controlled) |
+| [`photo-blinds`](./photo-blinds) | Photoresistor + motor blinds with auto / manual modes |
 
 ## Setup notes
 
