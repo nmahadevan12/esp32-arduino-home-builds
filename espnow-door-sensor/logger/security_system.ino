@@ -6,8 +6,8 @@
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
-const String phoneNumber = "+14703071077";
-const String apiKey = "1258595";
+const String phoneNumber = "YOUR_PHONE_E164";
+const String apiKey = "YOUR_API_KEY";
 
 const int switchPin = 15;
 int lastState = HIGH;
