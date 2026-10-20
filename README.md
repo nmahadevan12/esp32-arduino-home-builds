@@ -6,13 +6,12 @@ Each folder is one project from the [portfolio writeup](https://nmahadevan12.git
 
 | Folder | What it is |
 | --- | --- |
-| [`espnow-door-sensor`](./espnow-door-sensor) | Door system — `node/` (reed-switch ESP-NOW sensor) + `hub/` (master tracker) |
+| [`espnow-door-sensor`](./espnow-door-sensor) | Door system — `node/` + `hub/` |
 | [`esp-receiver-autowifi`](./esp-receiver-autowifi) | WiFiManager web hub |
 | [`esp-receiver-autowifi-discord`](./esp-receiver-autowifi-discord) | Same hub family with Discord webhooks |
 | [`security-system`](./security-system) | Wi‑Fi / web security logger |
-| [`blinds-motor-controllers`](./blinds-motor-controllers) | Dual-blind H-bridge HTTP controllers |
-| [`automation-hub`](./automation-hub) | LAN HTTP control plane for lights + blinds |
-| [`lamps-and-sidelight`](./lamps-and-sidelight) | Wi‑Fi / HomeSpan lamps and timed sidelight |
+| [`home-automation`](./home-automation) | Hub + Wi‑Fi blinds + lamps (`hub/` · `blinds/` · `lamps/`) |
+| [`photo-blinds`](./photo-blinds) | Standalone photoresistor blinds (not hub-controlled) |
 
 ## Setup notes
 
