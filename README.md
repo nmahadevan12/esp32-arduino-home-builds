@@ -6,8 +6,7 @@ Each folder is one project from the [portfolio writeup](https://nmahadevan12.git
 
 | Folder | What it is |
 | --- | --- |
-| [`espnow-door-sensor-node`](./espnow-door-sensor-node) | ESP-NOW reed-switch door node (deep sleep + heartbeat) |
-| [`espnow-door-sensor-hub`](./espnow-door-sensor-hub) | ESP-NOW hub for door messages |
+| [`espnow-door-sensor`](./espnow-door-sensor) | Door system — `node/` (reed-switch ESP-NOW sensor) + `hub/` (master tracker) |
 | [`esp-receiver-autowifi`](./esp-receiver-autowifi) | WiFiManager web hub |
 | [`esp-receiver-autowifi-discord`](./esp-receiver-autowifi-discord) | Same hub family with Discord webhooks |
 | [`security-system`](./security-system) | Wi‑Fi / web security logger |
