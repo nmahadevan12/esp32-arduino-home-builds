@@ -1,6 +1,6 @@
 # Past ESP32 / Arduino home builds
 
-Personal ESP32 and Arduino sketches from a small home stack: wireless door sensors, Discord / HomeKit hubs, Wi‑Fi blinds, and lamp automation.
+Personal ESP32 and Arduino sketches from a small home stack: wireless door sensors, Discord hubs, Wi‑Fi blinds, and lamp automation.
 
 Each folder is one project from the [portfolio writeup](https://nmahadevan12.github.io/projects/esp32-home-builds/).
 
@@ -10,7 +10,6 @@ Each folder is one project from the [portfolio writeup](https://nmahadevan12.git
 | [`espnow-door-sensor-hub`](./espnow-door-sensor-hub) | ESP-NOW hub for door messages |
 | [`esp-receiver-autowifi`](./esp-receiver-autowifi) | WiFiManager web hub |
 | [`esp-receiver-autowifi-discord`](./esp-receiver-autowifi-discord) | Same hub family with Discord webhooks |
-| [`espnow-homespan-hub`](./espnow-homespan-hub) | ESP-NOW → HomeKit (HomeSpan) bridge |
 | [`security-system`](./security-system) | Wi‑Fi / web security logger |
 | [`blinds-motor-controllers`](./blinds-motor-controllers) | Dual-blind H-bridge HTTP controllers |
 | [`automation-hub`](./automation-hub) | LAN HTTP control plane for lights + blinds |
